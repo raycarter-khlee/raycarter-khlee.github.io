@@ -1,0 +1,15 @@
+# Authors
+
+Billy Rick:
+  name: Ray Carter, KwangHyun Lee
+  picture: /images/raycarter-photo.jpg
+  instagram: "@ray__carter"
+  links:
+    - title: Instagram
+      url: https://instagram.com/ray__carter
+      icon: fab fa-instagram
+
+Cornelius Fiddlebone:
+  name: Cornelius Fiddlebone
+  picture: /images/bio-photo.jpg
+  twitter: corneliusfiddlebone
