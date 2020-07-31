@@ -448,7 +448,7 @@ tr, td, th { vertical-align: middle; }
 /* ========================================================================== Page ========================================================================== */
 .page-wrapper { margin: 0 auto; padding-left: 1em; padding-right: 1em; max-width: 1024px; }
 
-.page-title { margin-bottom: 0.5em; font-family: "Lora", serif; font-weight: bold; font-style: italic; letter-spacing: -2px; }
+.page-title { margin-bottom: 0.5em; font-family: "Lora", serif; font-weight: bold; font-style: normal; letter-spacing: -2px; }
 
 .page-title { font-size: 48px; }
 

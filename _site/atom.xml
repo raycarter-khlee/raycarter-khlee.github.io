@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-30T17:03:03+09:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">RayCarter’s Home</title><subtitle>이것저것 얼렁뚱땅 취미생활하는 엔지니어의 블로그</subtitle><author><name>Ray Carter, KwangHyun Lee</name><email>rksrn@naver.com</email></author><entry><title type="html">Fisrt Diary in my Homepage</title><link href="http://localhost:4000/diary/firstdiary-diaries/" rel="alternate" type="text/html" title="Fisrt Diary in my Homepage" /><published>2020-07-30T04:41:10+09:00</published><updated>2020-07-30T04:41:10+09:00</updated><id>http://localhost:4000/diary/firstdiary-diaries</id><content type="html" xml:base="http://localhost:4000/diary/firstdiary-diaries/">&lt;h2 id=&quot;todays-weather&quot;&gt;Today’s Weather&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-31T09:23:40+09:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">RayCarter’s Home</title><subtitle>이것저것 얼렁뚱땅 취미생활하는 엔지니어의 블로그</subtitle><author><name>Ray Carter, KwangHyun Lee</name><email>rksrn@naver.com</email></author><entry><title type="html">Jekyll 사용해서 GitHub 블로그 만들기 1탄!!</title><link href="http://localhost:4000/blog/jekyll/github/second-post/" rel="alternate" type="text/html" title="Jekyll 사용해서 GitHub 블로그 만들기 1탄!!" /><published>2020-07-30T17:08:00+09:00</published><updated>2020-07-30T17:08:00+09:00</updated><id>http://localhost:4000/blog/jekyll/github/second-post</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/github/second-post/">&lt;h2 id=&quot;시작에-앞서&quot;&gt;시작에 앞서….&lt;/h2&gt;
+
+&lt;p&gt;블로그를 시작하면서,&lt;/p&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preheat the oven to 350 F.&lt;/li&gt;
+  &lt;li&gt;In a medium bowl, whisk flour with baking soda, nutmeg and salt.&lt;/li&gt;
+  &lt;li&gt;In a&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Ray Carter, KwangHyun Lee</name><email>rksrn@naver.com</email></author><category term="Blog" /><category term="Jekyll" /><category term="GitHub" /><summary type="html">시작에 앞서….</summary></entry><entry><title type="html">Fisrt Diary in my Homepage</title><link href="http://localhost:4000/diary/firstdiary-diaries/" rel="alternate" type="text/html" title="Fisrt Diary in my Homepage" /><published>2020-07-30T04:41:10+09:00</published><updated>2020-07-30T04:41:10+09:00</updated><id>http://localhost:4000/diary/firstdiary-diaries</id><content type="html" xml:base="http://localhost:4000/diary/firstdiary-diaries/">&lt;h2 id=&quot;todays-weather&quot;&gt;Today’s Weather&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Rainy&lt;/li&gt;
 &lt;/ul&gt;
