@@ -33,7 +33,7 @@ categories: jekyll update
 
 6. 다음을 눌러 Outlook 설정 완료
 
-# 실패하는 경우 원인
+__*실패하는 경우 원인*__
 1. GMAIL 계정의 2차 비밀번호 설정 문제
     - 2차 비밀번호 해제
     - Gmail에서 생성해주는 암호 입력
@@ -44,7 +44,7 @@ categories: jekyll update
     - 사용으로 변경 후 저장
     - 앱 내에서 gmail 재 로그인 후 다시 Outlook 설정 진행
 
-* Third
+# Third
 1. 메일 송신 확인
     - 이미지 및 표 등의 메일이 정상적으로 전송되는지 개인 메일로 확인
     - 옵션->베일->메시지 작성에서 작성할 메시지 형식 "HTML"인지 확인
