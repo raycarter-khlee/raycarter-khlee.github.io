@@ -1,22 +1,18 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2020-07-29 08:26:28 -0400
-categories: jekyll update
+title: "Jekyll 사용해서 GitHub 블로그 만들기 1탄!!"
+date: 2020-07-30 08:08:00
+categories: Blog Jekyll GitHub
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 시작에 앞서....
 
-Jekyll also offers powerful support for code snippets:
+블로그를 만들게 된 계기는 공부한 내용을 정리하기 위함이었다. 처음 블로그를 시작하려고 마음먹고 네이버 블로그를 들어갔는데, 예전에 같은 생각으로 블로그를 만들었다가 3일만에 포기했던 잔해를 보게되었다. 이렇게 시작하게 되면 또 포기하게 될 것 같아서 의미있는 블로그를 찾아보자고 생각했다. 이렇게 생각만 한달정도 한 것 같다... 처음에는 도메인부터 내 도메인을 만들까 생각도 했었다. 하지만 처음부터 높은 수준(내입장에서)을 노리고 시작하면 또 포기하게 될 거라 생각해서 Github로 홈페이지를 만들기로 결심했다. 현재 회사에서
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+하지만 이것도
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Directions
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+1. Preheat the oven to 350 F.
+2. In a medium bowl, whisk flour with baking soda, nutmeg and salt.
+3. In a
+https://theorydb.github.io/envops/2019/05/03/envops-blog-github-pages-jekyll/
