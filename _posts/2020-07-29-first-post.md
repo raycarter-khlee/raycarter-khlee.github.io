@@ -12,7 +12,4 @@ categories: Blog Jekyll GitHub
 
 ## Directions
 
-1. Preheat the oven to 350 F.
-2. In a medium bowl, whisk flour with baking soda, nutmeg and salt.
-3. In a
-https://theorydb.github.io/envops/2019/05/03/envops-blog-github-pages-jekyll/
+1. https://theorydb.github.io/envops/2019/05/03/envops-blog-github-pages-jekyll/
